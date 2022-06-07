@@ -1,0 +1,52 @@
+{
+	"name": "Sol.Butterflies #1",
+	"symbol": "SOLBFLS",
+	"image": "https://googleru.neocities.org/images/solbutterfly_1.jpg",
+	"description": "1st Ever Butterflies Famaily on Solana!",
+	"seller_fee_basis_points": 818,
+	"collection": {
+		"name": "SOL.Butterflies",
+		"family": "SOL.Butterflies"
+	},
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "city night"
+		},
+		{
+			"trait_type": "Background_plant",
+			"value": "cactus"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "triangle"
+		},
+		{
+			"trait_type": "Antennae",
+			"value": "asterisks"
+		},
+		{
+			"trait_type": "Body",
+			"value": "beak"
+		},
+		{
+			"trait_type": "Eyes_eyewear",
+			"value": "silly"
+		}
+	],
+	"properties": {
+		"files": [
+			{
+				"uri": "https://googleru.neocities.org/images/solbutterfly_1.jpg",
+				"type": "image/jpg"
+			}
+		],
+		"category": "image",
+		"creators": [
+			{
+				"address": "C9sZY4RnjCdzDF2s7enWg77TxApLhsE4AQNBAksLyeM5",
+				"share": 100
+			}
+		]
+	}
+}
