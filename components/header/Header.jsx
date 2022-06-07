@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>NFT Vending Machine</title>
+        <title>SLNFT</title>
       </Head>
       <span>SLNFT</span>
     </header>
